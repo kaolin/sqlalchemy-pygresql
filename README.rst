@@ -5,7 +5,7 @@
 sqlalchemy-pygresql
 ===================
 This project provides a SQLAlchemy dialect for the PyGreSQL driver. This is not
-a well-supported, dialect, but it is hoped that it will fill some people's needs.
+a well-supported dialect, but it is hoped that it will fill some people's needs.
 You may also want to check out the pg8000 or Psycopg dialects, which are much
 better supported.
 
