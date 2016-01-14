@@ -18,7 +18,7 @@ Requirements
 ------------
 The following software is required to use the PyGreSQL dialect for SQLAlchemy:
 
-* PyGreSQL 4.2
+* PyGreSQL 4.1
 * Python 2.4, 2.5, 2.6, 2.7, or 3.4
 * SQLAlchemy version 0.8.0 or higher
 
